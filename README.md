@@ -1,6 +1,6 @@
 
 ## Deskripsi
-Portfolio website modern dan responsif untuk seorang Full Stack Developer bernama Kacer. Website ini dirancang untuk menampilkan profil profesional, skills, proyek-proyek terbaru, dan kontak dengan desain yang clean, minimalis, dan engaging. Menggunakan teknologi web dasar (HTML5, CSS3, vanilla JavaScript) untuk performa optimal tanpa dependencies eksternal.
+Portfolio website modern dan responsif untuk seorang Full Stack Developer bernama Regina Diva Olindia Putri. Website ini dirancang untuk menampilkan profil profesional, skills, proyek-proyek terbaru, dan kontak dengan desain yang clean, minimalis, dan engaging. Menggunakan teknologi web dasar (HTML5, CSS3, vanilla JavaScript) untuk performa optimal tanpa dependencies eksternal.
 
 Fokus utama:
 - **User  Experience**: Smooth scrolling, animasi halus, dan interaktivitas yang membuat pengunjung betah.
